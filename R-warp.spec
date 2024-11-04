@@ -7,7 +7,7 @@
 #
 Name     : R-warp
 Version  : 0.2.1
-Release  : 24
+Release  : 25
 URL      : https://cran.r-project.org/src/contrib/warp_0.2.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/warp_0.2.1.tar.gz
 Summary  : Group Dates
